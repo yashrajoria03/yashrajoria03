@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏🏻, I'm Yash Rajoria</h1>
-<h3 align="center">A Mern Stack Developer, Web3 enthusiast and an Avid Open Source Contributer</h3>
+<h3 align="center">A  Mern Stack Developer💻 , Web3 enthusiast⚡ and an Avid Open Source Contributer🥑</h3>
 
 - 🔭 I’m currently working on [Mern Stack Ecommerce Site](https://mernstore.netlify.app/)
 
