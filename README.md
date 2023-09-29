@@ -50,7 +50,3 @@ const yash = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>hi, I'll be happy to connect with you !</b> 😊</em>
 
 ---
-
-```
-
-```
