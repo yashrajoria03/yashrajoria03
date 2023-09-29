@@ -34,7 +34,6 @@ const yash = {
     ml: ["tensorflow", "numpy", "open-cv", "selenium", "scikit-learn"],
     databases: ["mongo", "MySql", "sqlite"],
     misc: ["Firebase", "Socket.IO"],
-    // devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
   },
   architecture: [
     "Serverless Architecture",
@@ -46,11 +45,16 @@ const yash = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>hi, I'll be happy to connect with you!</b> 😊</em>
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
 
+
 <!--START_SECTION:waka-->
+
+**🐱 My GitHub Data**
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2019%20mins-blue)
 
@@ -58,5 +62,5 @@ const yash = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data**
-[![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashrajoria03)](https://github.com/yashrajoria03/github-readme-stats)
+![awesome-readme-stats](https://github.com/yashrajoria03/waka-readme-stats)
+```
