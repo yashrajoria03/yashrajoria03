@@ -47,21 +47,9 @@ const yash = {
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>hi, I'll be happy to connect with you !</b> 😊</em>
 
 ---
-
-<!--START_SECTION:waka-->
-
-**🐱 My GitHub Data**
-
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C331%20hrs%2019%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1925-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
-
-![awesome-readme-stats](https://github.com/yashrajoria03/waka-readme-stats)
 
 ```
 
